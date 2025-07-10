@@ -161,8 +161,8 @@ export default function gsapLandingpage(
     var typed = new Typed(".typed-text", {
       strings: dataParams.value ? [""] : ["hi!", "  MY NAME IS GALIH"],
       typeSpeed: dataParams.value ? 0 : 60,
-      backSpeed: dataParams.value ? 0 : 200,
-      backDelay: dataParams.value ? 0 : 1000,
+      backSpeed: dataParams.value ? 0 : 100,
+      backDelay: dataParams.value ? 0 : 100,
       showCursor: false,
       startDelay: dataParams.value ? 0 : 200,
       loop: false,

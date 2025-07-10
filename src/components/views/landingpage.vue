@@ -888,11 +888,8 @@ onMounted(() => {
                     <span class="mr-[2rem]">10</span>
                     <span class="text-blue-600">&nbsp;&nbsp;&nbsp;"hobby"</span>
                     <span class="text-bold">: </span>
-                    <span class="text-brown-600 text-[#A52A2A]"
-                      ><span class="text-slate-500">[</span>
-                      "Games","Code","Footbal"
-                      <span class="text-slate-500">]</span>
-                      ,</span
+                    <span class="text-brown-600 text-[#A52A2A]">
+                      ["Games","Code","Footbal"] ,</span
                     >
                   </span>
                   <br />
@@ -903,11 +900,7 @@ onMounted(() => {
                     >
                     <span class="text-bold">: </span>
                     <span class="text-brown-600 text-[#A52A2A]">
-                      <span class="text-slate-600"> [ </span>
-                      "Indonesia","English","Sundanese"
-
-                      <span class="text-slate-600"> ] </span>
-                      ,
+                      ["Indonesia","English","Sundanese"] ,
                     </span>
                   </span>
 
