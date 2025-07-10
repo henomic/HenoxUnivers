@@ -57,7 +57,7 @@ onMounted(() => {
               FULLSTACK DEVELOPER
               <span
                 class="md:text-xl text-base md:mt-2 mt-4 md:text-start text-center block"
-                >Welcom another side of me <span class="typedGretting"></span
+                >Welcome another side of me <span class="typedGretting"></span
               ></span>
               <br />
               <span class="md:text-lg text-sm block"
