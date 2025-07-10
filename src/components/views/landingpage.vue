@@ -57,12 +57,13 @@ onMounted(() => {
               FULLSTACK DEVELOPER
               <span
                 class="md:text-xl text-base md:mt-2 mt-4 md:text-start text-center block"
-                >Welcome another side of me <span class="typedGretting"></span
+                >Welcome to another side of me
+                <span class="typedGretting"></span
               ></span>
               <br />
               <span class="md:text-lg text-sm block"
-                >Present by Mochamad Galih Sampoerna A.K.A Heno</span
-              >
+                >Present by Mochamad Galih Sampoerna
+              </span>
             </a>
             <div
               class="w-full flex icons flex-col mt-12 gap-2 justify-center items-center"
