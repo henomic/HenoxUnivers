@@ -99,7 +99,7 @@ onMounted(() => {
               </div>
               <div class="input flex w-full flex-col">
                 <h1 class="md:text-2xl text-xl text-[#cfcfcf]">
-                  Whats Your Email?
+                  Whats Your Message
                 </h1>
                 <textarea
                   v-model="pesan"

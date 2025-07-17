@@ -93,14 +93,14 @@ onMounted(() => {
             nama="Lihblary"
             pt="SMk TI Pembangunan"
             penjelasan="Lihblary is an online book lending platform with an automatic late return fine of 20,000 per day. It helps admins track borrowers and penalties easily, while making it simple for users to borrow books."
-            tech="HP | Javascript | Tailwind | jQuery | DataTable  | MySQL"
+            tech="PHP | Javascript | Tailwind | jQuery | DataTable  | MySQL"
             src="/image/aplikasi/perpus.png"
           ></card>
           <card
             nama="BBPAT Toko ikan"
             pt="Pt Pesat Aghni"
             penjelasan="A responsive web application for the online buying and selling of fish and fish feed, developed as a team project during my internship. The focus was on teamwork, data management, and user-friendly transactions."
-            tech="HP | Javascript | Tailwind | jQuery | DataTable | Inifinite Scroll | MySQL"
+            tech="PHP | Javascript | Tailwind | jQuery | DataTable | Inifinite Scroll | MySQL"
             src="/image/aplikasi/pepes.png"
           ></card>
 
@@ -108,7 +108,7 @@ onMounted(() => {
             nama="Umrah Tour & Travel"
             pt="Musahefiz"
             penjelasan="This Umrah app simplifies booking with admin confirmation, order tracking, and WhatsApp updates — helping admins and pilgrims stay connected and organized."
-            tech="HP | Javascript | Tailwind | jQuery | DataTable | Inifinite Scroll | MySQL"
+            tech="PHP | Javascript | Tailwind | jQuery | DataTable | Inifinite Scroll | MySQL"
             src="/image/aplikasi/umrah.png"
           ></card>
         </div>
